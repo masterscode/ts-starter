@@ -1,0 +1,17 @@
+HELP.md
+node_modules
+.cache
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+
+
+
+### VS Code ###
+.vscode/
+**.DS_Store
